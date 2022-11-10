@@ -1,0 +1,7 @@
+streamlit
+streamlit-aggrid
+ifcopenshell
+matplotlib
+plotly
+pandas
+xlsxwriter
